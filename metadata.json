@@ -1,0 +1,5 @@
+{
+  "name": "Cinematic Football Poster Generator",
+  "description": "An AI-powered application that transforms a user-uploaded photo into a professional, cinematic football (soccer) poster based on a detailed text prompt, using the Gemini API.",
+  "requestFramePermissions": []
+}
